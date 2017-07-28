@@ -24,3 +24,13 @@ for i in X_test:
 	pred=a+m*i
 	Y_pred.append(pred)
 print("Actual:",Y_test,"\nPredicted:",Y_pred)
+
+#Finding accuracy
+x,y=0,0
+mean=sY/n
+for i in range(len(Y_test)):
+	x=x+(Y_pred[i]-mean)**2
+	y=y+(Y_test[i]-mean)**2
+
+Accuracy=x/y
+print("Accuracy:",Accuracy*100)
