@@ -1,0 +1,4 @@
+Regularisation:
+
+When we train Machine Learning models to output predictions or answers, it may predict perfectly on trained data but may fail on unseen data. Such phenomenon or situation is called as Overfitting.
+We use regularisation to get best outcome of the model by reducing overfitting and generalise the model predictions for the given problem.

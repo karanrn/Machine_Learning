@@ -1,0 +1,16 @@
+Theortical Topics:
+	1.Linear Regression
+	2.Multi-variate Regression
+	3.Gradient Descent in Regression
+	4.Polynomial Regression
+	5.Logistic Regression
+	6.Decision trees
+	7.Regularisation
+	8.Neural Networks
+	9.Support vector machines
+	10.K-means for clustering (or any other clustering algorithm)
+
+
+Tools:
+	1.Scikit-learn
+	2.AWS ML 
