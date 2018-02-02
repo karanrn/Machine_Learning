@@ -1,4 +1,4 @@
-# Polynomial Regression
+# Model stacking
 
 # Importing the libraries
 import numpy as np
